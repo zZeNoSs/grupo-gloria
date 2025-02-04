@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+	src:url(Fonts/BebasNeue.otf);
+	font-family:bebas;
+	
+}
+
+img {
+	
+	border-radius:100px;
+	width:100px;
+	height:100px;
+	
+	border:dashed;
+	border-width:thin;
+	padding:2%;
+	border-color:#C7770C;
+}
+
+div {
+
+	height:100%;
+	
+	
+	
+}
+
+#img1 {
+	
+	float:left;
+	margin-top:75%;
+	margin-left:15%;
+	border:dashed;
+	border-width:thin;
+	border-color:#09F;
+	padding:1%;
+	
+			
+}
+
+#pp1 {
+	float:left;
+	margin-left:2%;
+	
+}
+
+#tabla_profesores {
+	width:800px;
+	padding-top:15%;
+	margin-bottom:10%;
+	font-family:bebas;
+	letter-spacing:1px;
+}
+
+#tabla_alumnos {
+	
+	width:800px;
+	font-family:bebas;
+	letter-spacing:1px;
+	
+}
+
+
+body {
+	
+	background-image:url(orla.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
+
+	
+}
+
+
+/*¿Aún no os habéis enterado?
+
+¡¡¡¡ NUEVO CURSO DE INICIACIÓN DE SALSA LINEAL !!!!
+
+El próximo jueves 6 de febrero comenzamos con un nuevo curso de iniciación de salsa lineal. Y os preguntaréis, ¿qué es la salsa lineal?
+
+La salsa lineal es la más bailada en el mundo y la podéis ver en ¡Mira Quien Baila!. Este estilo es uno de los bailados en los campeonatos del mundo. 
+
+¿Te vas a quedar con la intriga? Ven y compruébalo!! Por solo 10€ al mes disfrutarás de un ambiente inigualable en un local ambientado para que no pierdas detalle!
+
+Comenzamos el próximo jueves 6 de febrero de 19:00 a 20:00. Ven y prueba sin compromiso!
